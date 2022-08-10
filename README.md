@@ -1,6 +1,6 @@
 # wellnite_project REST API Gateway + microservices
 
-This project is a [monorepo](https://gomonorepo.org/) containing a REST API gateway with TCP back-end microservices all written using the NestJS Framework and TypeScript.
+This project contains a REST API gateway with TCP back-end microservices all written using the NestJS Framework and TypeScript.
 
 ## Layers
 
